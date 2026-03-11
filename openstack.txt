@@ -1,8 +1,0 @@
-Step 1: sudo snap install microstack --beta
-STEP 2: snap list microstack
-STEP 3: sudo microstack init --auto –control
-STEP4: microstack.openstack --version 
-STEP 5: sudo snap get microstack config.credentials.keystone-password
-STEP 6: ip a 
-STEP7: now open Browser and enter https://yourip https://192.168.90.133 
-STEP 8: Login user name: admin & password from them terminal which got through previous command
